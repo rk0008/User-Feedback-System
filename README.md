@@ -29,5 +29,8 @@ npm start
 
   
 
-![image](https://github.com/user-attachments/assets/40b399be-3a78-46c8-a254-9046964ec91b)
+![image](https://github.com/user-attachments/assets/315899b6-4f44-4250-a8dc-77bd28002596)
+
+![image](https://github.com/user-attachments/assets/1dab97a8-4656-4909-b325-acc9bc2aa5df)
+
 
