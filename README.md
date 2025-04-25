@@ -26,3 +26,8 @@ npm start
 - View feedback dashboard
 - Filter by category
 - Sort by timestamp or name
+
+  
+
+![image](https://github.com/user-attachments/assets/40b399be-3a78-46c8-a254-9046964ec91b)
+
