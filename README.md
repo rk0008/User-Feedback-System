@@ -2,7 +2,7 @@
 # User Feedback System
 
 ## Description
-A simple full-stack feedback system using React, Node.js, Express, and MongoDB.
+A full-stack feedback system using React, Node.js, Express, and MongoDB.
 
 ## How to Run
 
